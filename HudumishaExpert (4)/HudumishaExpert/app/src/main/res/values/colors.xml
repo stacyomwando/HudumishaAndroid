@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01013a</color>
+    <color name="colorPrimaryDark">#010128</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="graylight">#fafafa</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+    <color name="callgreen">#229954</color>
+    <color name="greencall">#6eff33</color>
+    <color name="green_call">#1abc9c</color>
+
+</resources>

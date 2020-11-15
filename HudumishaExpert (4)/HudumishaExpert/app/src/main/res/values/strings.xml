@@ -1,0 +1,63 @@
+<resources>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB7mp21u7aSnV0i7FWQpdhtvEutqk70ar0</string>
+    <string name="app_name">Hudumisha</string>
+    <string name="handy">handyman</string>
+    <string name="hudumisha">Hudumisha services</string>
+    <string name="home">Homepage</string>
+    <string name="hello">Hello Card</string>
+    <string name="user1">James Maina</string>
+    <string name="career1">mechanic</string>
+    <string name="bookings">Completed bookings</string>
+    <string name="online">Go Online</string>
+    <string name="ratings">rating</string>
+    <string name="worker2">Michelle Nyaguthi</string>
+    <string name="career2">Househelp</string>
+    <string name="worker3">Vincent Waweru</string>
+    <string name="career3">Plumber</string>
+    <string name="username1">Michelle Wanjala</string>
+    <string name="michellehelp">househelp</string>
+    <string name="jobs">Completed Jobs</string>
+    <string name="fix">20 fixes</string>
+    <string name="help1">Househelp</string>
+    <string name="completed">Jobs Completed</string>
+    <string name="done">25</string>
+    <string name="completes1">Completes</string>
+    <string name="completed_jobs">Completed Jobs</string>
+    <string name="Job25">25</string>
+    <string name="completes">Completed Jobs</string>
+    <string name="job20">20</string>
+    <string name="rating1">Ratings</string>
+    <string name="nanny2">Sandra Wambui</string>
+    <string name="househelp_nanny_cook">Househelp, Nanny, Cook</string>
+    <string name="cv">I am a very hardworking and passionate about my job. I have 7 years of experience in this field. Working and taking care of children is the best part of this job.</string>
+    <string name="location1">Nairobi,Kenya</string>
+    <string name="rate">3.5</string>
+    <string name="ratingssss">rating</string>
+    <string name="jobcompletes">55</string>
+    <string name="jobss">Jobs Completed</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="hire_me">Go Online</string>
+    <string name="service_prompt">Choose Area of Expertise</string>
+    <string-array name="services">
+        <item>Mechanic</item>
+        <item>Plumber</item>
+        <item>Housecleaner and Cook</item>
+        <item>Electrician</item>
+        <item>Carpenter</item>
+    </string-array>
+    <string name="title_activity_mymain">mymain</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>
